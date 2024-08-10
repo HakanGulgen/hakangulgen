@@ -3,6 +3,8 @@
 <p align="left">Hello, my name is Hakan. I've been involved with software development for about 7 years, starting with Java and focusing on backend development. Thanks to the experiences and knowledge gained from the places I've worked, I'm continuing as a full-stack developer. I'm actively trying to learn Flutter.</p>
 
 - 🌍 I’m based on **İzmir, Turkey**
+- ⚡ Check my website [hakanguzelgulgen.com](https://hakanguzelgulgen.com) 
+- 📫 How to reach me <a href="mailto:me@hakanguzelgulgen.com">me@hakanguzelgulgen.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
